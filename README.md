@@ -39,4 +39,6 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 Let's connect and collaborate on exciting projects!
 
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shameenakoodan)
+[![Shameena Koodans's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shameenakoodan)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues,contribs)
