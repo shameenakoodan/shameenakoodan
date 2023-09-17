@@ -52,8 +52,3 @@ Let's connect and collaborate on exciting projects!
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shameenakoodan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shameenakoodan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=shameenakoodan&theme=radical)](https://wakatime.com/@shameenakoodan)
-
-<!-- Add any additional sections or features you want to showcase here -->
-
