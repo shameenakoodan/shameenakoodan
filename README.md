@@ -38,3 +38,4 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 
 Let's connect and collaborate on exciting projects!
 [![Shameena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan)](https://github.com/shameenakoodan/github-readme-stats)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shameenakoodan)
