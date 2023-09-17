@@ -11,10 +11,16 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
   - Bachelors in Computer Applications, Chinmaya Arts And Science College
 
 ## Professional Work Experience
-### Junior Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
-- Graduated as a cloud engineer trainee specializing in scalable full-stack applications with persistent storage and RESTful APIs.
-- Developed applications using React, Node.js, MySQL, AWS S3, and Jenkins.
-- Utilized software development languages including Python, Javascript, HTML, and SCSS to create web application projects.
+### Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
+🚀 During my tenure as a cloud engineer trainee, I embarked on an exciting journey where I:
+
+- 🌐 Specialized in crafting robust and scalable full-stack applications, with a strong emphasis on designing and implementing persistent storage solutions and RESTful APIs.
+- 🛠️ Developed dynamic web applications using a versatile tech stack that featured React for creating immersive user interfaces, Node.js for handling server-side logic, and MySQL for efficient data management.
+- 🌟 Achieved secure and seamless data storage by leveraging the power of AWS S3.
+- 🚀 Pioneered the adoption of automation by setting up sophisticated build and deployment pipelines using Jenkins.
+- 💡 Showcased my versatility by coding in various software development languages, including Python, JavaScript, HTML, and SCSS, to breathe life into captivating web application projects.
+
+My journey at Nology not only sharpened my technical skills but also ignited my passion for building cutting-edge software solutions. Let's connect and collaborate on innovative projects!
 
 ### Java Developer, Siva Complete Solutions (Jul 2012 - Jun 2014)
 - Collaborated with a team of 3 developers to create a web application that helped market the company's clients.
