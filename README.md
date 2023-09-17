@@ -43,6 +43,6 @@ Let's connect and collaborate on exciting projects!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shameenakoodan&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shameenakoodan&theme=radical)(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shameenakoodan&theme=radical)](https://github.com/shameenakoodan/github-readme-activity-graph)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shameenakoodan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
