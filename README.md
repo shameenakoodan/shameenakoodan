@@ -42,3 +42,18 @@ Let's connect and collaborate on exciting projects!
 [![Shameena Koodans's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shameenakoodan)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues,contribs)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shameenakoodan&theme=radical)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shameenakoodan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shameenakoodan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=shameenakoodan&theme=radical)](https://wakatime.com/@shameenakoodan)
+
+<!-- Add any additional sections or features you want to showcase here -->
+
