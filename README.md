@@ -37,4 +37,4 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 - Junior Cloud Engineer trainee, Nology
 
 Let's connect and collaborate on exciting projects!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Shameena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan)](https://github.com/shameenakoodan/github-readme-stats)
