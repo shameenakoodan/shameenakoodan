@@ -39,12 +39,6 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 Let's connect and collaborate on exciting projects!
 
 
-[![Shameena Koodans's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shameenakoodan)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues,contribs)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical&count_private=true)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shameenakoodan&theme=radical)
