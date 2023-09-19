@@ -43,4 +43,3 @@ Let's connect and collaborate on exciting projects!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shameenakoodan&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan)](https://github.com/anuraghazra/github-readme-stats)
