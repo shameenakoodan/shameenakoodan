@@ -46,6 +46,6 @@ Let's connect and collaborate on exciting projects!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan)](https://github.com/shameenakoodan/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan)](https://github.com/shameenakoodan/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan" />
