@@ -45,4 +45,6 @@ Let's connect and collaborate on exciting projects!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical)
