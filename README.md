@@ -39,7 +39,7 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 Let's connect and collaborate on exciting projects!
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical)](https://github.com/shameenakoodan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan)](https://github.com/shameenakoodan/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shameenakoodan&theme=radical)
 
