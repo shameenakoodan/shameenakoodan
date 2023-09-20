@@ -40,7 +40,7 @@ Let's connect and collaborate on exciting projects!
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical)](https://github.com/shameenakoodan/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical&hide=python)](https://github.com/shameenakoodan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=pie&hide=python)](https://github.com/shameenakoodan/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&hide=python)
