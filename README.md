@@ -41,8 +41,3 @@ Let's connect and collaborate on exciting projects!
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&layout=compact&theme=radical)](https://github.com/shameenakoodan/github-readme-stats)
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shameenakoodan&show_icons=true&locale=en&layout=compact&theme=omni" alt="shameenakoodan" /></p>
