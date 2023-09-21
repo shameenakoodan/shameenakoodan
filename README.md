@@ -9,6 +9,7 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 - 📚 Education: 
   - Masters in Computer Applications, Chinmaya Institute of Technology
   - Bachelors in Computer Applications, Chinmaya Arts And Science College
+  
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
 ## Professional Work Experience
@@ -40,4 +41,7 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 Let's connect and collaborate on exciting projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&hide=python)
+
+![Visitor Count](https://profile-counter.glitch.me/shameenakoodan/count.svg)
+
 
