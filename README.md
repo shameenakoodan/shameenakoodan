@@ -10,7 +10,7 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
   - Masters in Computer Applications, Chinmaya Institute of Technology
   - Bachelors in Computer Applications, Chinmaya Arts And Science College
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
 ## Professional Work Experience
 ### Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
 🚀 During my tenure as a cloud engineer trainee, I embarked on an exciting journey where I:
