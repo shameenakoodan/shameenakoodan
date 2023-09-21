@@ -39,3 +39,6 @@ These experiences taught me that coding isn't just about syntax; it's about maki
 Let's connect and collaborate on exciting projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&hide=python)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
