@@ -42,7 +42,7 @@ Let's connect and collaborate on exciting projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameenakoodan&hide=python)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameenakoodan&show_icons=true&theme=radical)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/shameenakoodan/count.svg)
 
