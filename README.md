@@ -13,7 +13,22 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
 ## Professional Work Experience
+### Web Software Developer Specializing in Web Applications and Technology (WAT)
+
+🚀 During my time as a web software developer, I delved into an exhilarating journey filled with innovation and discovery, where every challenge sparked new opportunities for growth and creativity.
+
+- 🌐 Backend Development and Maintenance: Proficient in crafting and maintaining robust backend systems for WAT applications, ensuring scalability and optimal performance.
+
+- 🛠️ Technical Issue Resolution: Skilled in troubleshooting and solving technical challenges within WAT applications, ensuring seamless functionality and user experience.
+
+- 🔧 Currently, I'm immersed in the exciting process of rebuilding existing applications, enhancing their functionality and performance to meet evolving needs.
+
+- 💼 Excellent at resolving client issues related to backend development.
+
+With a focus on delivering reliable and efficient solutions, I am committed to driving the success of WAT projects. Let's collaborate to bring your vision to life.
+
 ### Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
+
 🚀 During my tenure as a cloud engineer trainee, I embarked on an exciting journey where I:
 
 - 🌐 Specialized in crafting robust and scalable full-stack applications, with a strong emphasis on designing and implementing persistent storage solutions and RESTful APIs.
