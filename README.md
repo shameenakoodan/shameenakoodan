@@ -15,7 +15,7 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 ## Professional Work Experience
 ### Web Software Developer, University of Texas Dallas (October 2023 -  Current)
 
-🚀 During my time as a web software developer, I delved into an exhilarating journey filled with innovation and discovery, where every challenge sparked new opportunities for growth and creativity.
+🚀 Currently, as a web software developer,  I delved into an exhilarating journey filled with innovation and discovery, where every challenge sparked new opportunities for growth and creativity.
 
 - 🌐 Backend Development and Maintenance: Proficient in crafting and maintaining robust backend systems for WAT applications, ensuring scalability and optimal performance.
 
