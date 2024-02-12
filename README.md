@@ -13,7 +13,7 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
 ## Professional Work Experience
-### Web Software Developer Specializing in Web Applications and Technology (WAT)
+### Web Software Developer, University of Texas Dallas (October 2023 -  Current)
 
 🚀 During my time as a web software developer, I delved into an exhilarating journey filled with innovation and discovery, where every challenge sparked new opportunities for growth and creativity.
 
