@@ -25,7 +25,7 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 
 - 💼 Excellent at resolving client issues related to backend development.
 
-With a focus on delivering reliable and efficient solutions, I am committed to driving the success of Web application projects. Let's collaborate to bring your vision to life.
+With a focus on delivering reliable and efficient solutions, I am committed to driving the success of Web application projects.
 
 ### Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
 
