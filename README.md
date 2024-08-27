@@ -17,15 +17,15 @@ I'm a Full Stack Java developer with a passion for creating efficient and innova
 
 🚀 Currently, as a web software developer,  I delved into an exhilarating journey filled with innovation and discovery, where every challenge sparked new opportunities for growth and creativity.
 
-- 🌐 Backend Development and Maintenance: Proficient in crafting and maintaining robust backend systems for WAT applications, ensuring scalability and optimal performance.
+- 🌐 Backend Development and Maintenance: Proficient in crafting and maintaining robust backend systems for Web applications, ensuring scalability and optimal performance.
 
-- 🛠️ Technical Issue Resolution: Skilled in troubleshooting and solving technical challenges within WAT applications, ensuring seamless functionality and user experience.
+- 🛠️ Technical Issue Resolution: Skilled in troubleshooting and solving technical challenges within Web applications, ensuring seamless functionality and user experience.
 
 - 🔧 Currently, I'm immersed in the exciting process of rebuilding existing applications, enhancing their functionality and performance to meet evolving needs.
 
 - 💼 Excellent at resolving client issues related to backend development.
 
-With a focus on delivering reliable and efficient solutions, I am committed to driving the success of WAT projects. Let's collaborate to bring your vision to life.
+With a focus on delivering reliable and efficient solutions, I am committed to driving the success of Web application projects. Let's collaborate to bring your vision to life.
 
 ### Cloud Engineer Trainee, Nology, (Remote) (Jul 2022 - Dec 2022)
 
