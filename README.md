@@ -1,7 +1,7 @@
 # Shameena Koodan
 
 ## About Me
-I'm a Full Stack Java developer with a passion for creating efficient and innovative software solutions. 
+I'm a Full Stack developer with a passion for creating efficient and innovative software solutions. 
 
 - 💻 Technical Skills: Java, HTML/CSS, JavaScript, React, Spring Boot, SQL, Git, AWS
 - 🌐 Portfolio: [shameenakoodan.github.io](https://shameenakoodan.github.io/shameenakoodan-portfolio/)
