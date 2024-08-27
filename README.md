@@ -37,7 +37,7 @@ With a focus on delivering reliable and efficient solutions, I am committed to d
 - 🚀 Pioneered the adoption of automation by setting up sophisticated build and deployment pipelines using Jenkins.
 - 💡 Showcased my versatility by coding in various software development languages, including Python, JavaScript, HTML, and SCSS, to breathe life into captivating web application projects.
 
-My journey at Nology not only sharpened my technical skills but also ignited my passion for building cutting-edge software solutions. Let's connect and collaborate on innovative projects!
+My journey at Nology not only sharpened my technical skills but also ignited my passion for building cutting-edge software solutions.
 
 ### Java Developer at Siva Complete Solutions (Jul 2012 - Jun 2014)
 
