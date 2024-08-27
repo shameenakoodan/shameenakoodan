@@ -11,7 +11,10 @@ I'm a Full Stack developer with a passion for creating efficient and innovative 
   - Bachelors in Computer Applications, Chinmaya Arts And Science College
   
 ## Skills
-[//]: [![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=50)](https://skillicons.dev)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=aws,css,docker,eclipse,express,git,github,hibernate,html,idea,java,js,jenkins,jest,jquery,maven,mysql,nginx,nodejs,postman,react,sass,spring,visualstudio&perline=3)](https://skillicons.dev) -->
+
 ## Professional Work Experience
 ### Web Software Developer, University of Texas Dallas (October 2023 -  Current)
 
